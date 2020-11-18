@@ -76,7 +76,7 @@ table[is.na(table)] <- 0 ; table
 colnames(table) <- gsub("w","n-",colnames(table))
 
 # Optional ####################
-#write.table(table,paste(getwd(),"/tables/FA.table.percent.txt",sep=""))
+write.table(table,paste(getwd(),"/tables/FA.table.percent.txt",sep=""))
 
 #####################
 # CONCENTRATIONS
@@ -105,4 +105,4 @@ Concentration$group <- table$group
 colnames(Concentration) <- gsub("w","n-",colnames(Concentration))
 
 # Optional ####################
-#write.table(Concentration,paste(getwd(),"/tables/FA.table.conc.txt",sep=""))
+write.table(Concentration,paste(getwd(),"/tables/FA.table.conc.txt",sep=""))

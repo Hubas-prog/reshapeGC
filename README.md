@@ -4,7 +4,7 @@ Object : Data processing of GC-FID. Give absolute and relative concentrations of
 
 How to use it :
 
-1- Download the zip file and unzip to your R directory
+1- Download the zip file and unzip to your Rproj directory
 
 2- Open reshapeGC.Rproj in R studio
 

@@ -1,6 +1,6 @@
 # reshapeGC
 
-Object : Data processing of GC-FID. Give absolute and relative concentrations of fatty acid data from raw ".txt" files of Varian GC.
+Object : Data processing of GC-FID. Give absolute and relative concentrations of fatty acid data from raw ".txt" files of old Varian CP-3800 Gas Chromatograph (GC).
 
 Exemple : An exemple is available here : https://github.com/Hubas-prog/Paradendryphiella_traject. This script has been used in Vallet et al. 2020 (https://doi.org/10.3390/md18080379)
 

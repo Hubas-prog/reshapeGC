@@ -10,7 +10,7 @@ How to use it :
 
 2- Open reshapeGC.Rproj in R studio
 
-3- Add all raw Varian .txt files to your Rproj directory according to the following format https://github.com/Hubas-prog/Paradendryphiella_traject/blob/master/02LDT18S1.txt
+3- Add all raw GC-FID Varian .txt files to your Rproj directory. Txt files must be tailored for ease of manipulation with R according to the following format https://github.com/Hubas-prog/Paradendryphiella_traject/blob/master/02LDT18S1.txt.
 
 4- open and run the whole gc.process.R script
 
